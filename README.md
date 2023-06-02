@@ -1,6 +1,5 @@
 # javascript-mylibrary
 //////////////////////////////
-# javascript-mylibrary
 # ./modules/display
 # ./modules/classes
 # ./modules/attributes
